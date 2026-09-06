@@ -159,13 +159,7 @@ export default function Login() {
           {/* Demo Admin */}
           <div className="relative mt-7 overflow-hidden rounded-2xl border border-blue-100 bg-gradient-to-br from-blue-50 to-indigo-50 p-4">
 
-            <div className="flex items-start gap-3">
-              <div className="w-9 h-9 shrink-0 rounded-lg bg-white shadow-sm flex items-center justify-center">
-                <ShieldCheck className="w-5 h-5 text-blue-600" />
-              </div>
-
-             
-            </div>
+            
           </div>
 
           {/* Bottom */}
