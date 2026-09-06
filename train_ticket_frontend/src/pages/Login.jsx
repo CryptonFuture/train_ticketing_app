@@ -157,10 +157,7 @@ export default function Login() {
           </p>
 
           {/* Demo Admin */}
-          <div className="relative mt-7 overflow-hidden rounded-2xl border border-blue-100 bg-gradient-to-br from-blue-50 to-indigo-50 p-4">
-
-            
-          </div>
+        
 
           {/* Bottom */}
           <div className="flex items-center justify-center gap-2 mt-7 text-[11px] text-slate-400">
