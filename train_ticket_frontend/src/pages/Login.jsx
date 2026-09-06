@@ -164,31 +164,7 @@ export default function Login() {
                 <ShieldCheck className="w-5 h-5 text-blue-600" />
               </div>
 
-              <div>
-                <p className="text-sm font-bold text-slate-800">
-                  Demo Admin Account
-                </p>
-
-                <p className="text-xs text-slate-500 mt-1">
-                  Use these credentials for testing
-                </p>
-
-                <div className="mt-3 space-y-1 text-xs">
-                  <p className="text-slate-700">
-                    <span className="font-semibold">Email:</span>{' '}
-                    admin@train.com
-                  </p>
-
-                  <p className="text-slate-700">
-                    <span className="font-semibold">Password:</span>{' '}
-                    admin123
-                  </p>
-                </div>
-
-                <p className="text-[11px] text-blue-600 mt-2">
-                  Run the seed script first.
-                </p>
-              </div>
+             
             </div>
           </div>
 
